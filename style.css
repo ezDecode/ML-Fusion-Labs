@@ -125,6 +125,13 @@ html {
   background-color: #ffffff;
   color: #000000;
 }
+button, a{
+  text-decoration: none;
+  transition: all ease .5s;
+}
+button a:hover{
+  color: black;
+}
 
 /* Page 2 styling */
 .page2 {
